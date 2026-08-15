@@ -79,7 +79,7 @@ Nahulan-2582434/
     └── demo.mp4           # Video demonstration of local workflow
 ```
 ##🚀  Installation & Usage
-
+---
 ### 1. Prerequisites
 * **Python**: `3.10` or higher
 * **Ollama**: Installed and running locally ([Download Ollama](https://ollama.com/))
