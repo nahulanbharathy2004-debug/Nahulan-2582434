@@ -1,12 +1,12 @@
 # Nahulan-2582434
 AI-Based Smart Classroom Doubt Assistant
-#  AI-Based Smart Classroom Doubt Assistant
+# 🧠AI-Based Smart Classroom Doubt Assistant
 
 An offline, privacy-first classroom assistant engineered for university students and educators. The application provides instant, multi-modal doubt resolution by coupling a local Large Language Model (LLM) for conceptual explanations with a local Image Generation Model for educational diagrams and visual concept representations.
 
 ---
 
-##  Problem Statement
+## 🎯 Problem Statement
 In large university classrooms and self-paced study environments:
 * Students hesitate to interrupt lectures or lack access to 24/7 personalized academic support.
 * Text-only explanations frequently fail to convey complex spatial, structural, and scientific concepts.
@@ -16,7 +16,7 @@ In large university classrooms and self-paced study environments:
 
 ---
 
-##  Key Features
+## 🌟 Key Features
 * **Zero Cloud Dependency:** Runs completely on local hardware via local inference servers (Ollama & Stable Diffusion WebUI API).
 * **Multi-Modal Conceptual Answers:** Delivers both structured theoretical explanations and synthesized visual concept representations in a single workflow.
 * **Dual-Prompt Processing Pipeline:** The local LLM answers the student query and formulates an optimized technical diffusion prompt tailored for educational imagery.
@@ -24,7 +24,7 @@ In large university classrooms and self-paced study environments:
 
 ---
 
-## System Architecture 
+## 🏗️ System Architecture 
 ```text
 +-------------------------------------------------------------+
 |                     Streamlit Web UI                        |
@@ -54,7 +54,7 @@ In large university classrooms and self-paced study environments:
 
 ---
 
-## Repository Structure
+## 📁 Repository Structure
 
 ```text
 Nahulan-2582434/
@@ -78,7 +78,7 @@ Nahulan-2582434/
 └── demo/
     └── demo.mp4           # Video demonstration of local workflow
 ```
-##  Installation & Usage
+##🚀  Installation & Usage
 
 ### 1. Prerequisites
 * **Python**: `3.10` or higher
