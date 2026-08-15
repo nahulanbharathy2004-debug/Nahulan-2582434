@@ -94,3 +94,38 @@ ollama run llama3
 
 # Windows
 webui-user.bat --api
+---
+```
+## 🌟 Key Features
+```
+* **Dual-Prompt Pipeline:** Seamlessly translates user queries into conceptual explanations and targeted visual prompts concurrently.
+* **100% Offline & Local:** Operates with zero external API dependencies using local LLM and image diffusion backends.
+* **Context-Aware Responses:** Tailors explanations based on selected academic subject domains.
+* **Automatic Session Export:** Automatically archives generated text explanations and diagram assets into the local `outputs/` directory.
+```
+---
+
+## 🛠️ Technology Stack
+```
+| Component | Technology | Role |
+| :--- | :--- | :--- |
+| **Frontend UI** | Streamlit | Web interface and interactive user controls |
+| **Text Generation** | Ollama (`llama3`) | Core reasoning and conceptual doubt resolution |
+| **Image Generation** | Stable Diffusion WebUI API | Visual diagram and concept illustration |
+| **Language** | Python 3.10+ | Core orchestration and API integration |
+```
+---
+
+## 📂 Session Outputs
+```
+All processed queries automatically generate local records in the `outputs/` folder:
+* **Session Notes:** Formatted markdown/text files containing subject context and detailed explanations.
+* **Concept Diagrams:** High-resolution PNG diagrams illustrating the core mechanism of the query.
+``
+---
+
+## 📜 License & Acknowledgments
+```
+* **License:** Distributed under the MIT License.
+* **Author:** NAHULAN BHARATHY K (Register No: 2582434)
+
