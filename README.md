@@ -15,7 +15,7 @@ In large university classrooms and self-paced study environments:
 **Solution:** The **Smart Classroom Doubt Assistant** runs 100% locally on workstation hardware. It breaks down complex academic questions into structured step-by-step pedagogical explanations while concurrently synthesizing visual educational aids.
 
 ---
-
+<img width="1883" height="507" alt="image" src="https://github.com/user-attachments/assets/b8b7de4f-af8e-4600-936b-3e2e446efc40" />
 ##  Key Features
 * **Zero Cloud Dependency:** Runs completely on local hardware via local inference servers (Ollama & Stable Diffusion WebUI API).
 * **Multi-Modal Conceptual Answers:** Delivers both structured theoretical explanations and synthesized visual concept representations in a single workflow.
